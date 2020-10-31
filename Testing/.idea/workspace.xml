@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7594c0bb-7937-436d-99dc-070789052ff4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lab01/PhoneAndText/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab01/PhoneAndText/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="ea36d664-750e-4816-9f4c-2f4a55708782" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/androidTest/java/lazyboyempires/nmc/video_demo/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/java/lazyboyempires/nmc/video_demo/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/app/src/test/java/lazyboyempires/nmc/video_demo/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Video_Demo/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tik_Tak/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Tik_Tak/gradlew" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,55 +57,46 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="E:\dev\Android_App\Testing\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1j68qNF4f3JutlXnSfGw3ZkQF3n" />
+  <component name="ProjectId" id="1jV7fAx8InJAo2xq8ULphVgqWr5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7594c0bb-7937-436d-99dc-070789052ff4" name="Default Changelist" comment="" />
-      <created>1603113370578</created>
+      <changelist id="ea36d664-750e-4816-9f4c-2f4a55708782" name="Default Changelist" comment="" />
+      <created>1603877505271</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603113370578</updated>
+      <updated>1603877505271</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="860" y="151" key="FileChooserDialogImpl" timestamp="1603113450842">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1603877638828">
+      <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="860" y="151" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603113450842" />
-    <state x="825" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1603113375929">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="825" y="220" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603113375929" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1603877638828" />
   </component>
 </project>

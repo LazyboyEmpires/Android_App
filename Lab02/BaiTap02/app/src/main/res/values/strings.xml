@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BaiTap02</string>
+
+    <string name="text1">1</string>
+    <string name="text2">2</string>
+    <string name="text3">3</string>
+    <string name="text4">4</string>
+    <string name="text5">5</string>
+    <string name="text6">6</string>
+    <string name="text7">7</string>
+
+</resources>
