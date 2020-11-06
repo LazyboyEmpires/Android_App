@@ -20,14 +20,14 @@ public class MainActivity extends AppCompatActivity {
             "Belphegor"
     };
 
-    Integer[] instructor = {
-            666,
-            252433,
-            164935,
-            100466,
-            93932,
-            666,
-            81762
+    String[] instructor = {
+            "Pride",
+            "Greed",
+            "Lust",
+            "Wrath",
+            "Gluttony",
+            "Envy",
+            "Sloth"
 
     };
 

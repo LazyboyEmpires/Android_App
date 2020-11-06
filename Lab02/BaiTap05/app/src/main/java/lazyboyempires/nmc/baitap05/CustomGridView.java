@@ -12,13 +12,13 @@ public class CustomGridView extends BaseAdapter {
 
     private final Context context;
     private final String[] titles;
-    private final Integer[] contributors;
+    private final String[] instructor;
     private final Integer[] imageIDs;
 
-    public CustomGridView(Context context, String[] titles, Integer[] contributors, Integer[] imageIDs) {
+    public CustomGridView(Context context, String[] titles, String[] instructor, Integer[] imageIDs) {
         this.context = context;
         this.titles = titles;
-        this.contributors = contributors;
+        this.instructor = instructor;
         this.imageIDs = imageIDs;
     }
 
@@ -53,7 +53,7 @@ public class CustomGridView extends BaseAdapter {
 
             imageView.setImageResource(imageIDs[position]);
             txtTitle.setText(titles[position]);
-            txtContributor.setText(contributors[position].toString());
+            txtContributor.setText(instructor[position].toString());
         }
         else {
             grid = (View) convertView;
