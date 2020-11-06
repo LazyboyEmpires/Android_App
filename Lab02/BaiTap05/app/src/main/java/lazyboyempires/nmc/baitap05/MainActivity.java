@@ -11,13 +11,13 @@ public class MainActivity extends AppCompatActivity {
     GridView grid;
 
     String[] titles = {
-            "Ars",
-            "Astaroth",
-            "Bitru",
-            "Goetia",
-            "Murmur",
-            "Paimon",
-            "Sigil"
+            "Lucifer",
+            "Mammon",
+            "Asmodeus",
+            "Behemoth",
+            "Beelzebub",
+            "Leviathan",
+            "Belphegor"
     };
 
     Integer[] instructor = {
