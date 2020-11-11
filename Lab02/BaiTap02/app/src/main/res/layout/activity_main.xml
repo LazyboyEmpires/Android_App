@@ -25,6 +25,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="#0511ED"
                 android:text="@string/text1" />
 
             <TextView
@@ -32,6 +33,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="#EF1710"
                 android:text="@string/text2" />
 
             <TextView
@@ -39,6 +41,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="#0511ED"
                 android:text="@string/text3" />
 
         </LinearLayout>
@@ -51,23 +54,25 @@
 
             <TextView
                 android:id="@+id/text4"
-                android:layout_width="wrap_content"
+                android:layout_width="66dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="#18BC06"
                 android:text="@string/text4" />
 
             <ImageView
                 android:id="@+id/imageView"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                tools:srcCompat="@tools:sample/avatars" />
+                android:background="@drawable/asmodeus" />
 
             <TextView
                 android:id="@+id/text5"
-                android:layout_width="wrap_content"
+                android:layout_width="61dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:background="#18BC06"
                 android:text="@string/text5" />
 
         </LinearLayout>
@@ -83,14 +88,16 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/text6"/>
+                android:background="#18BC06"
+                android:text="@string/text6" />
 
             <TextView
                 android:id="@+id/textView13"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:text="@string/text7"/>
+                android:background="#FFE604"
+                android:text="@string/text7" />
 
         </LinearLayout>
     </LinearLayout>
